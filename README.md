@@ -1,2 +1,1 @@
-# mod_tel
-SCL Telugu module
+# SCL Telugu module
